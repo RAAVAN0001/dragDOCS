@@ -7,7 +7,7 @@ const Foreground = () => {
 
     const data = [
         {
-          description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente in hic rem distinctio!!!!',
+          description: 'Life is like a software update. You never know what new feature will mess up your day!',
           fileSize: '.9MB',
           close: false,
           tag: {
@@ -17,7 +17,7 @@ const Foreground = () => {
           },
         },
         {
-          description: 'Another description for the second object. Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+          description: 'I asked the computer for a joke, and it replied, "You\'re the funniest thing I\'ve seen all day!"',
           fileSize: '.8MB',
           close: true,
           tag: {
@@ -27,7 +27,7 @@ const Foreground = () => {
           },
         },
         {
-          description: 'A third description goes here. Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+          description: 'Why did the developer go broke? Because he used up all his cache!',
           fileSize: '1MB',
           close: false,
           tag: {
@@ -37,7 +37,7 @@ const Foreground = () => {
           },
         },
         {
-          description: 'Adding more text for the fourth object description. Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+          description: 'I told my computer I needed a break, and now it won’t stop sending me vacation ads.',
           fileSize: '1.2MB',
           close: true,
           tag: {
@@ -47,7 +47,7 @@ const Foreground = () => {
           },
         },
         {
-          description: 'The fifth description for your array of objects. Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+          description: 'Life is short, smile while you still have teeth!',
           fileSize: '1.5MB',
           close: false,
           tag: {
@@ -57,6 +57,9 @@ const Foreground = () => {
           },
         },
       ];
+      
+      // Feel free to use this updated 'data' array in your application.
+      
       
       // You can now use this updated 'data' array in your application.
       
