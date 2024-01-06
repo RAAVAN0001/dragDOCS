@@ -13,9 +13,9 @@ const Card = ({ data, reference }) => {
             whileDrag={{ scale: 1.1 }}
             dragElastic={.2}
             className=' flex-shrink-0 relative w-60 h-72 rounded-[40px] px-8 py-10
-         overflow-hidden bg-zinc-900/90 p-5 text-white border'>
+         overflow-hidden bg-zinc-900/90 p-5 text-white border border-opacity-10'>
             <FaRegFileAlt />
-            <p className='text-sm leading-tight mt-5 font-semibold'>{data.discription}</p>
+            <p className='text-sm leading-tight mt-5 font-semibold'>{data.description}</p>
             <div className='footer absolute bottom-0 left-0  w-full '>
                 <div className='flex items-center justify-between px-8 mb-3 py-3'>
 
